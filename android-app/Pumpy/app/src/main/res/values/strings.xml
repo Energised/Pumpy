@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pumpy</string>
+    <string name="bluetooth_text">Bluetooth Connection</string>
+    <string name="connect_text">Connect</string>
+    <string name="size_text">Syringe Size</string>
+    <string name="time_text">Infusion Time</string>
+    <string name="ms_text">Microstepping</string>
+
+    <string-array name="size_list">
+        <item>20mL</item>
+        <item>60mL</item>
+    </string-array>
+
+    <string-array name="ms_list">
+        <item>1</item>
+        <item>1/2</item>
+        <item>1/4</item>
+        <item>1/8</item>
+        <item>1/16</item>
+    </string-array>
+</resources>
